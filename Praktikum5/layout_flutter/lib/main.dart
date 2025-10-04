@@ -58,6 +58,19 @@ class MyApp extends StatelessWidget {
       ],
     );
 
+    // P3 - L1 text section
+    Widget textSection = Container(
+      padding: const EdgeInsets.all(32),
+      child: const Text(
+        'Gunung Panderman merupakan salah satu ikon wisata alam '
+        'di Kota Batu, Malang. Dari puncaknya, wisatawan dapat menikmati '
+        'pemandangan kota yang menakjubkan serta udara yang sejuk khas pegunungan. '
+        'Gunung ini menjadi favorit para pendaki pemula karena jalurnya relatif mudah. '
+        '\n\nDikerjakan oleh: Nova Eliza Maharani (2341720252)',
+        softWrap: true,
+      ),
+    );
+
     return MaterialApp(
       title: 'Flutter layout: Nova Eliza Maharani, 2341720252 ',
       home: Scaffold(
@@ -68,6 +81,7 @@ class MyApp extends StatelessWidget {
           children: [
             titleSection,
             buttonSection,
+            textSection,
           ],
         ),
       ),
