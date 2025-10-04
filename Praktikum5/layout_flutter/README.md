@@ -16,3 +16,7 @@ Implementasi button row
 #### Praktikum 3
 Implementasi text section
 ![3](images/3.png)
+
+#### Praktikum 4
+Implementasi image section
+![4](images/4.png)
