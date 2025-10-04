@@ -11,3 +11,4 @@ Implementasi title row
 
 #### Praktikum 2
 Implementasi button row
+![2](images/2.png)
