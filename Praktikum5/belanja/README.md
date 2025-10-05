@@ -1,16 +1,38 @@
 # belanja
 
-A new Flutter project.
+Nova Eliza Maharani
+2341720252 / TI 3D - 24
 
-## Getting Started
+## JOBSHEET PERTEMUAN 6 
 
-This project is a starting point for a Flutter application.
+#### Praktikum 1
+Implementasi title row.
+Menampilkan judul, lokasi, dan rating tempat wisata menggunakan kombinasi Row dan Column.
+![1](images/1.png)
 
-A few resources to get you started if this is your first Flutter project:
+#### Praktikum 2
+Implementasi button row.
+Menambahkan tiga tombol aksi (CALL, ROUTE, SHARE) yang tersusun rapi dalam satu baris.
+![2](images/2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Praktikum 3
+Implementasi text section.
+Menampilkan deskripsi tempat wisata beserta identitas pembuat dengan tampilan teks yang rapi.
+![3](images/3.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Praktikum 4
+Implementasi image section.
+Menambahkan gambar utama di bagian atas untuk mempercantik dan memperjelas tampilan aplikasi.
+![4](images/4.png)
+
+#### Tugas 1
+Hasil pengerjaan ada diatas
+
+#### Praktikum 5
+Membangun navigasi di flutter.
+Video ini memperlihatkan cara membuat navigasi antarhalaman di Flutter menggunakan Navigator.pushNamed.
+<video controls src="images/5.mp4" title="navigasi"></video>
+
+#### Tugas 2
+Video ini menampilkan hasil penerapan navigasi dengan pengiriman data antarhalaman menggunakan arguments.
+<video controls src="images/6.mp4" title="tugas2"></video>

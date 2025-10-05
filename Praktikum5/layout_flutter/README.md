@@ -32,3 +32,7 @@ Hasil pengerjaan ada diatas
 Membangun navigasi di flutter.
 <video controls src="images/5.mp4" title="navigasi"></video>
 
+#### Tugas 2
+Video ini menampilkan hasil penerapan navigasi dengan pengiriman data antarhalaman menggunakan arguments.
+<video controls src="images/6.mp4" title="tugas2"></video>
+
