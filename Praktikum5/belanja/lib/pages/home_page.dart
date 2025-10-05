@@ -14,7 +14,8 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Home Page'),
+        title: const Text('Shopping List'),
+        backgroundColor: Colors.blue,
       ),
       body: Container(
         margin: const EdgeInsets.all(8),
@@ -25,7 +26,11 @@ class HomePage extends StatelessWidget {
             final item = items[index];
             return InkWell(
               onTap: () {
-                Navigator.pushNamed(context, '/item');
+                Navigator.pushNamed(
+                  context,
+                  '/item',
+                  arguments: item,
+                );
               },
               child: Card(
                 child: Container(

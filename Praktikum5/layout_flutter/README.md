@@ -24,3 +24,11 @@ Menampilkan deskripsi tempat wisata beserta identitas pembuat dengan tampilan te
 Implementasi image section.
 Menambahkan gambar utama di bagian atas untuk mempercantik dan memperjelas tampilan aplikasi.
 ![4](images/4.png)
+
+#### Tugas 1
+Hasil pengerjaan ada diatas
+
+#### Praktikum 5
+Membangun navigasi di flutter.
+<video controls src="images/5.mp4" title="navigasi"></video>
+
