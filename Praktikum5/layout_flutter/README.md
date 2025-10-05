@@ -30,9 +30,9 @@ Hasil pengerjaan ada diatas
 
 #### Praktikum 5
 Membangun navigasi di flutter.
-<video controls src="images/5.gif" title="navigasi"></video>
+Video ini memperlihatkan cara membuat navigasi antarhalaman di Flutter menggunakan Navigator.pushNamed.
+![<video controls src="images/5.gif" title="navigasi"></video>](images/5.gif)
 
 #### Tugas 2
 Video ini menampilkan hasil penerapan navigasi dengan pengiriman data antarhalaman menggunakan arguments.
-<video controls src="images/6.gif" title="tugas2"></video>
-
+![<video controls src="images/6.gif" title="tugas2"></video>](images/6.gif)
